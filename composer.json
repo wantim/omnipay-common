@@ -1,5 +1,5 @@
 {
-    "name": "wantim/common",
+    "name": "omnipay/common",
     "type": "library",
     "description": "Common components for Omnipay payment processing library",
     "keywords": [
