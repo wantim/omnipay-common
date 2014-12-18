@@ -92,10 +92,10 @@
             "YandexMoney",
             "YandexMoneyIndividual",
             "Havale",
-	        "Garanti",
-	        "YapiKredi",
-	        "DataTrans",
-            "Curabill",
+	    "Garanti",
+	    "YapiKredi",
+	    "DataTrans",
+            "Curabill"
         ]
     }
 }
