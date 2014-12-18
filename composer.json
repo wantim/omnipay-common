@@ -10,7 +10,7 @@
         "payment",
         "purchase"
     ],
-    "homepage": "https://github.com/thephpleague/omnipay-common",
+    "homepage": "https://github.com/wantim/omnipay-common",
     "license": "MIT",
     "authors": [
         {
@@ -19,7 +19,7 @@
         },
         {
             "name": "Omnipay Contributors",
-            "homepage": "https://github.com/thephpleague/omnipay-common/contributors"
+            "homepage": "https://github.com/wantim/omnipay-common/contributors"
         }
     ],
     "autoload": {
@@ -90,7 +90,12 @@
             "Sisow",
             "Skrill",
             "YandexMoney",
-            "YandexMoneyIndividual"
+            "YandexMoneyIndividual",
+            "Havale",
+	        "Garanti",
+	        "YapiKredi",
+	        "DataTrans",
+            "Curabill",
         ]
     }
 }
